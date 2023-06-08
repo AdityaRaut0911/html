@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Biodata</title>
+</head>
+<body>
+    
+    <h1>Biodata</h1>
+    <img src="photo.jpg" width="80"
+    <hr>
+    <h2>Personal Information</h2>
+    <ul>
+        <li><b>Name:</b> Aditya Raut</li>
+        <li><b>Date of Birth:</b> November 09, 2004</li>
+        <li><b>Address:</b> savtamali nagar,karjat, Amhednagar, Maharastra</li>
+        <li><b>Email:</b> Rautaditya539@Gamil.com</li>
+        <li><b>Phone:</b> 7410191889</li>
+    </ul>
+    <h2>Education</h2>
+    <table border="1">
+        <tr>
+          <th>Degree</th>
+          <th>University</th>
+          <th>Year</th>
+          <th>Result</th>
+
+        </tr>
+        <tr>
+          <td>10th</td>
+          <td>SSC</td>
+          <td>2021</td>
+          <td>81.20%</td>
+        </tr>
+        <tr>
+          <td>diploma &nbsp;  </td>
+          <td>MSBTE</td>
+          <td>2021-2024</td>
+          <td>90%</td>
+        </tr>
+      </table>
+    <h2>Work Experience</h2>
+    <ul>
+        <li>Company: MD$KS Pvt.ltd</li>
+        <li>Position: Software Engineer</li>
+        <li>Duration:  2022-2024</li>
+    </ul>
+</body>
+</html>
